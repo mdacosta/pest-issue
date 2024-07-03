@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "coduo/php-matcher": "^6.0",
+        "pestphp/pest": "^2.34"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
